@@ -1,0 +1,12 @@
+{
+  "name": "lv1Exam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://NHJeans@github.com/NHJeans/node_exam.git",
+  "author": "hyeonjae",
+  "license": "MIT",
+  "type:": "module",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
